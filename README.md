@@ -9,3 +9,6 @@
 | **Secondary identity** | Full-stack builder with UX taste |
 | **Current focus** | Agentic AI, scalable SaaS patterns, and UI/UX optimisation |
 | **Preferred motif** | Campus-to-Cloud Blueprint |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pavan-exec/pavan-exec/main/profile-3d-contrib/profile-contrib.svg" alt="3D Contribution Graph">
+</p>
