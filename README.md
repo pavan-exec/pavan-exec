@@ -10,5 +10,5 @@
 | **Current focus** | Agentic AI, scalable SaaS patterns, and UI/UX optimisation |
 | **Preferred motif** | Campus-to-Cloud Blueprint |
 <p align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph">
 </p>
