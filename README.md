@@ -9,6 +9,9 @@
 | **Secondary identity** | Full-stack builder with UX taste |
 | **Current focus** | Agentic AI, scalable SaaS patterns, and UI/UX optimisation |
 | **Preferred motif** | Campus-to-Cloud Blueprint |
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&langs_count=6)](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&langs_count=6)
